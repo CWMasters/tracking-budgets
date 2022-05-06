@@ -7,23 +7,15 @@ const FILES_TO_CACHE = [
   "./css/styles.css",
   "./js/index.js",
 
-  "./manifest.json",
-  "./icons/icon-72x72.png",
-  "./icons/icon-128x128.png",
-  "./icons/icon-144x144.png",
-  "./icons/icon-152x152.png",
-  "./icons/icon-192x192.png",
-  "./icons/icon-384x384.png",
-  "./icons/icon-512x512.png",
-//   "./events.html",
-//   "./tickets.html",
-//   "./schedule.html",
-//   "./assets/css/bootstrap.css",
-//   "./assets/css/tickets.css",
-//   "./dist/app.bundle.js",
-//   "./dist/events.bundle.js",
-//   "./dist/tickets.bundle.js",
-//   "./dist/schedule.bundle.js"
+  // "./manifest.json",
+  // "./icons/icon-72x72.png",
+  // "./icons/icon-128x128.png",
+  // "./icons/icon-144x144.png",
+  // "./icons/icon-152x152.png",
+  // "./icons/icon-192x192.png",
+  // "./icons/icon-384x384.png",
+  // "./icons/icon-512x512.png",
+
   
 ];
 
